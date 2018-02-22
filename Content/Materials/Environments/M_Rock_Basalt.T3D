@@ -1,0 +1,713 @@
+Begin Object Class=/Script/Engine.Material Name="M_Rock_Basalt"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_9"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_8"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_7"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_43"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_42"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_41"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_10"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_30"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_29"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_28"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionSubtract Name="MaterialExpressionSubtract_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionPixelDepth Name="MaterialExpressionPixelDepth_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_9"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_8"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_7"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_61"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_60"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_59"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_58"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_57"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_9"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_8"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_45"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_43"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_13"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_12"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_11"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_10"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionDivide Name="MaterialExpressionDivide_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_15"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_23"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_22"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_21"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_20"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_19"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_18"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_17"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_16"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_15"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_55"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_48"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_34"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_24"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_23"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_22"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_21"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_20"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_19"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_18"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_17"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionClamp Name="MaterialExpressionClamp_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionClamp Name="MaterialExpressionClamp_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_23"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_22"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_21"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_1"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_9"
+      Coordinates=(Expression=MaterialExpressionMultiply'"M_Rock_Basalt:MaterialExpressionMultiply_8"')
+      Texture=Texture2D'"/Game/Textures/T_Rock_Basalt_D.T_Rock_Basalt_D"'
+      MaterialExpressionEditorX=-2680
+      MaterialExpressionEditorY=-180
+      MaterialExpressionGuid=0E7B6B47466ED4220595F792262D5435
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_8"
+      Coordinates=(Expression=MaterialExpressionMultiply'"M_Rock_Basalt:MaterialExpressionMultiply_6"')
+      Texture=Texture2D'"/Game/Textures/T_Perlin_Noise_M.T_Perlin_Noise_M"'
+      SamplerType=SAMPLERTYPE_Masks
+      MaterialExpressionEditorX=-3220
+      MaterialExpressionEditorY=1960
+      MaterialExpressionGuid=01D39D134EC3AF7303B3B28940C6ED81
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_7"
+      Coordinates=(Expression=MaterialExpressionMultiply'"M_Rock_Basalt:MaterialExpressionMultiply_7"')
+      Texture=Texture2D'"/Game/Textures/T_Rock_Basalt_N.T_Rock_Basalt_N"'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=-2400
+      MaterialExpressionEditorY=680
+      MaterialExpressionGuid=3FA90CD8473522CB57DBEC9AD8C2E411
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_6"
+      Coordinates=(Expression=MaterialExpressionMultiply'"M_Rock_Basalt:MaterialExpressionMultiply_7"')
+      Texture=Texture2D'"/Game/Textures/T_Rock_Basalt_D.T_Rock_Basalt_D"'
+      MaterialExpressionEditorX=-2700
+      MaterialExpressionEditorY=-500
+      MaterialExpressionGuid=1D2E630248AD6AD6F2A71F8012AC819F
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_43"
+      Coordinates=(Expression=MaterialExpressionMultiply'"M_Rock_Basalt:MaterialExpressionMultiply_59"')
+      Texture=Texture2D'"/Game/Textures/T_MacroVariation.T_MacroVariation"'
+      MaterialExpressionEditorX=-3280
+      MaterialExpressionEditorY=-1180
+      MaterialExpressionGuid=907A53E2472520BB593DDEAA6A84C1A2
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_42"
+      Coordinates=(Expression=MaterialExpressionMultiply'"M_Rock_Basalt:MaterialExpressionMultiply_58"')
+      Texture=Texture2D'"/Game/Textures/T_MacroVariation.T_MacroVariation"'
+      MaterialExpressionEditorX=-3280
+      MaterialExpressionEditorY=-1400
+      MaterialExpressionGuid=4E21A5984C0FEBFA1890D9B017FB399D
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_41"
+      Coordinates=(Expression=MaterialExpressionMultiply'"M_Rock_Basalt:MaterialExpressionMultiply_57"')
+      Texture=Texture2D'"/Game/Textures/T_MacroVariation.T_MacroVariation"'
+      MaterialExpressionEditorX=-3280
+      MaterialExpressionEditorY=-1600
+      MaterialExpressionGuid=268ECD9D47B80298D6662DB1C5BDA88A
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_10"
+      Coordinates=(Expression=MaterialExpressionMultiply'"M_Rock_Basalt:MaterialExpressionMultiply_8"')
+      Texture=Texture2D'"/Game/Textures/T_Rock_Basalt_N.T_Rock_Basalt_N"'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=-2400
+      MaterialExpressionEditorY=920
+      MaterialExpressionGuid=A2B978F94A45482EBE7B6D9F122A7599
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_30"
+      MaterialExpressionEditorX=-3660
+      MaterialExpressionEditorY=-1160
+      MaterialExpressionGuid=B8EEB00B4C22E2144FB5FA8E7ABDB489
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_3"
+      MaterialExpressionEditorX=-3580
+      MaterialExpressionEditorY=-480
+      MaterialExpressionGuid=CA766B5A459BA4093E94129BCBF3D4F6
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_29"
+      MaterialExpressionEditorX=-3620
+      MaterialExpressionEditorY=-1400
+      MaterialExpressionGuid=5374D7064FD7A3590F345885D4A25A72
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_28"
+      MaterialExpressionEditorX=-3620
+      MaterialExpressionEditorY=-1580
+      MaterialExpressionGuid=2E0693D148C74426A1F354B2CEF89C25
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_2"
+      MaterialExpressionEditorX=-3760
+      MaterialExpressionEditorY=1740
+      MaterialExpressionGuid=02E7FC104CBB0A209941F1BA749D3B7E
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionSubtract_1"
+      A=(Expression=MaterialExpressionAdd'"M_Rock_Basalt:MaterialExpressionAdd_1"')
+      B=(Expression=MaterialExpressionConstant'"M_Rock_Basalt:MaterialExpressionConstant_17"')
+      MaterialExpressionEditorX=-2260
+      MaterialExpressionEditorY=1960
+      MaterialExpressionGuid=44ADFC364EB4CB44F24595B8AECD344A
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionPixelDepth_1"
+      MaterialExpressionEditorX=-2700
+      MaterialExpressionEditorY=2000
+      MaterialExpressionGuid=28691B494A715756706DE19EC7E5EA87
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_9"
+      A=(Expression=MaterialExpressionMultiply'"M_Rock_Basalt:MaterialExpressionMultiply_61"')
+      B=(Expression=MaterialExpressionLinearInterpolate'"M_Rock_Basalt:MaterialExpressionLinearInterpolate_13"')
+      MaterialExpressionEditorX=-1300
+      MaterialExpressionEditorY=-40
+      MaterialExpressionGuid=5D188D8A4E65E6A7771B9D94B794EC3A
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_8"
+      A=(Expression=MaterialExpressionTextureCoordinate'"M_Rock_Basalt:MaterialExpressionTextureCoordinate_3"')
+      B=(Expression=MaterialExpressionConstant'"M_Rock_Basalt:MaterialExpressionConstant_23"')
+      MaterialExpressionEditorX=-3320
+      MaterialExpressionEditorY=-60
+      MaterialExpressionGuid=49C1F5B64A88D6B0AC01B0B6C9E3E609
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_7"
+      A=(Expression=MaterialExpressionTextureCoordinate'"M_Rock_Basalt:MaterialExpressionTextureCoordinate_3"')
+      B=(Expression=MaterialExpressionConstant'"M_Rock_Basalt:MaterialExpressionConstant_22"')
+      MaterialExpressionEditorX=-3300
+      MaterialExpressionEditorY=-360
+      MaterialExpressionGuid=B0B6E821483F332D11E5AA84F48B248A
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_61"
+      A=(Expression=MaterialExpressionAdd'"M_Rock_Basalt:MaterialExpressionAdd_21"')
+      B=(Expression=MaterialExpressionMultiply'"M_Rock_Basalt:MaterialExpressionMultiply_60"')
+      MaterialExpressionEditorX=-2600
+      MaterialExpressionEditorY=-1240
+      MaterialExpressionGuid=0A995DBB4CA55445C2450A9B9846E363
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_60"
+      A=(Expression=MaterialExpressionAdd'"M_Rock_Basalt:MaterialExpressionAdd_22"')
+      B=(Expression=MaterialExpressionAdd'"M_Rock_Basalt:MaterialExpressionAdd_23"')
+      MaterialExpressionEditorX=-2800
+      MaterialExpressionEditorY=-1180
+      MaterialExpressionGuid=FB3F69EA43D3FE10FFDEFDBD36E65DAE
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_6"
+      A=(Expression=MaterialExpressionTextureCoordinate'"M_Rock_Basalt:MaterialExpressionTextureCoordinate_2"')
+      B=(Expression=MaterialExpressionConstant'"M_Rock_Basalt:MaterialExpressionConstant_21"')
+      ConstB=0.250000
+      MaterialExpressionEditorX=-3540
+      MaterialExpressionEditorY=1820
+      MaterialExpressionGuid=B1195E3E4C474F4030E09B8C34A73B3F
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_59"
+      A=(Expression=MaterialExpressionTextureCoordinate'"M_Rock_Basalt:MaterialExpressionTextureCoordinate_30"')
+      ConstB=0.002000
+      MaterialExpressionEditorX=-3460
+      MaterialExpressionEditorY=-1180
+      MaterialExpressionGuid=D44DB9864033BDA4170CD7BF9AF66D4E
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_58"
+      A=(Expression=MaterialExpressionTextureCoordinate'"M_Rock_Basalt:MaterialExpressionTextureCoordinate_29"')
+      ConstB=0.053410
+      MaterialExpressionEditorX=-3480
+      MaterialExpressionEditorY=-1400
+      MaterialExpressionGuid=7FF890D74D83203239A46AB9B0508216
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_57"
+      A=(Expression=MaterialExpressionTextureCoordinate'"M_Rock_Basalt:MaterialExpressionTextureCoordinate_28"')
+      ConstB=0.213400
+      MaterialExpressionEditorX=-3480
+      MaterialExpressionEditorY=-1600
+      MaterialExpressionGuid=F01199F0421B686D52B59A91049C2FD3
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_5"
+      A=(Expression=MaterialExpressionLinearInterpolate'"M_Rock_Basalt:MaterialExpressionLinearInterpolate_43"')
+      B=(Expression=MaterialExpressionLinearInterpolate'"M_Rock_Basalt:MaterialExpressionLinearInterpolate_11"')
+      MaterialExpressionEditorX=-760
+      MaterialExpressionEditorY=-500
+      MaterialExpressionGuid=51016CC548E951304999148719666043
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_9"
+      A=(Expression=MaterialExpressionLinearInterpolate'"M_Rock_Basalt:MaterialExpressionLinearInterpolate_12"')
+      B=(Expression=MaterialExpressionConstant3Vector'"M_Rock_Basalt:MaterialExpressionConstant3Vector_6"')
+      Alpha=(Expression=MaterialExpressionClamp'"M_Rock_Basalt:MaterialExpressionClamp_2"')
+      MaterialExpressionEditorX=-797
+      MaterialExpressionEditorY=1102
+      MaterialExpressionGuid=BE8C03484DEAC59DB0F66DB800A9071E
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_8"
+      A=(Expression=MaterialExpressionConstant'"M_Rock_Basalt:MaterialExpressionConstant_15"')
+      B=(Expression=MaterialExpressionConstant'"M_Rock_Basalt:MaterialExpressionConstant_16"')
+      Alpha=(Expression=MaterialExpressionMultiply'"M_Rock_Basalt:MaterialExpressionMultiply_9"')
+      ConstA=1.000000
+      ConstB=0.000000
+      MaterialExpressionEditorX=-700
+      MaterialExpressionEditorY=160
+      MaterialExpressionGuid=52477D2D4EEBAFB90769C383123473C3
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_45"
+      Alpha=(Expression=MaterialExpressionMultiply'"M_Rock_Basalt:MaterialExpressionMultiply_61"')
+      ConstA=-2.000000
+      ConstB=0.700000
+      MaterialExpressionEditorX=-2300
+      MaterialExpressionEditorY=-900
+      MaterialExpressionGuid=EE07B8414A3BD575C54D6AB3F8038179
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_43"
+      A=(Expression=MaterialExpressionConstant3Vector'"M_Rock_Basalt:MaterialExpressionConstant3Vector_15"')
+      Alpha=(Expression=MaterialExpressionMultiply'"M_Rock_Basalt:MaterialExpressionMultiply_61"')
+      MaterialExpressionEditorX=-1620
+      MaterialExpressionEditorY=-1340
+      MaterialExpressionGuid=6820E4484173ADF7FE7BD9904904AAFF
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_13"
+      A=(Expression=MaterialExpressionTextureSample'"M_Rock_Basalt:MaterialExpressionTextureSample_6"',OutputIndex=4,Mask=1,MaskA=1)
+      B=(Expression=MaterialExpressionTextureSample'"M_Rock_Basalt:MaterialExpressionTextureSample_9"',OutputIndex=4,Mask=1,MaskA=1)
+      Alpha=(Expression=MaterialExpressionClamp'"M_Rock_Basalt:MaterialExpressionClamp_3"')
+      MaterialExpressionEditorX=-1600
+      MaterialExpressionEditorY=180
+      MaterialExpressionGuid=50041B824B12D6104548A7B9D8333388
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_12"
+      A=(Expression=MaterialExpressionTextureSample'"M_Rock_Basalt:MaterialExpressionTextureSample_7"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionTextureSample'"M_Rock_Basalt:MaterialExpressionTextureSample_10"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      Alpha=(Expression=MaterialExpressionClamp'"M_Rock_Basalt:MaterialExpressionClamp_3"')
+      MaterialExpressionEditorX=-1580
+      MaterialExpressionEditorY=780
+      MaterialExpressionGuid=5DA60A8D4B7281C9BEFD3BA4F6AC79ED
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_11"
+      A=(Expression=MaterialExpressionTextureSample'"M_Rock_Basalt:MaterialExpressionTextureSample_6"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionTextureSample'"M_Rock_Basalt:MaterialExpressionTextureSample_9"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      Alpha=(Expression=MaterialExpressionClamp'"M_Rock_Basalt:MaterialExpressionClamp_3"')
+      MaterialExpressionEditorX=-1600
+      MaterialExpressionEditorY=-420
+      MaterialExpressionGuid=574280934AC283DA363FFB90ABAFB92A
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_10"
+      A=(Expression=MaterialExpressionConstant'"M_Rock_Basalt:MaterialExpressionConstant_19"')
+      B=(Expression=MaterialExpressionConstant'"M_Rock_Basalt:MaterialExpressionConstant_20"')
+      Alpha=(Expression=MaterialExpressionTextureSample'"M_Rock_Basalt:MaterialExpressionTextureSample_8"',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-3000
+      MaterialExpressionEditorY=1900
+      MaterialExpressionGuid=F5C51E634754F31F0E04859720418105
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionDivide_1"
+      A=(Expression=MaterialExpressionSubtract'"M_Rock_Basalt:MaterialExpressionSubtract_1"')
+      B=(Expression=MaterialExpressionConstant'"M_Rock_Basalt:MaterialExpressionConstant_18"')
+      MaterialExpressionEditorX=-2120
+      MaterialExpressionEditorY=1940
+      MaterialExpressionGuid=9B91842B44BB47193AB03F9BFC553B1F
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_6"
+      Constant=(R=0.000000,G=0.000000,B=1.000000,A=0.000000)
+      MaterialExpressionEditorX=-1237
+      MaterialExpressionEditorY=1182
+      MaterialExpressionGuid=528EF4EC444FCF205925449A98B23C61
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_15"
+      Constant=(R=0.635000,G=0.635000,B=0.635000,A=0.000000)
+      MaterialExpressionEditorX=-1880
+      MaterialExpressionEditorY=-1460
+      MaterialExpressionGuid=3EA114B44AAFA1D0B6A11C9472915119
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_23"
+      R=0.350000
+      MaterialExpressionEditorX=-3600
+      MaterialExpressionEditorY=20
+      MaterialExpressionGuid=0CA15C6640C4BCF45FAD9287D0C5CB66
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_22"
+      R=0.250000
+      MaterialExpressionEditorX=-3580
+      MaterialExpressionEditorY=-280
+      MaterialExpressionGuid=1637EEF64C94A37B555F8E9F3EBB3E68
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_21"
+      R=0.050000
+      MaterialExpressionEditorX=-3720
+      MaterialExpressionEditorY=1940
+      MaterialExpressionGuid=E7F1523C49C493B15115618B7F71F2C3
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_20"
+      R=2000.000000
+      MaterialExpressionEditorX=-3140
+      MaterialExpressionEditorY=1860
+      MaterialExpressionGuid=2B7513324776A8015AB227836FD57764
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_19"
+      R=-2000.000000
+      MaterialExpressionEditorX=-3140
+      MaterialExpressionEditorY=1780
+      MaterialExpressionGuid=318F8937444AE535C07EDC98EE2C92C8
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_18"
+      R=2000.000000
+      MaterialExpressionEditorX=-2240
+      MaterialExpressionEditorY=2120
+      MaterialExpressionGuid=CDC27A044CA1C9B61B998682A74BAF28
+      Material=Material'"M_Rock_Basalt"'
+      Desc="LargeScaleTransitionScale"
+   End Object
+   Begin Object Name="MaterialExpressionConstant_17"
+      R=1000.000000
+      MaterialExpressionEditorX=-2520
+      MaterialExpressionEditorY=2120
+      MaterialExpressionGuid=024754D24748F76B722DF1ABC9B4B298
+      Material=Material'"M_Rock_Basalt"'
+      Desc="LargeScaleTransitionDistance"
+   End Object
+   Begin Object Name="MaterialExpressionConstant_16"
+      R=0.500000
+      MaterialExpressionEditorX=-960
+      MaterialExpressionEditorY=180
+      MaterialExpressionGuid=4FADBD5C46629D12ABDABD8C9DDE4210
+      Material=Material'"M_Rock_Basalt"'
+      Desc="RoughnessMin"
+   End Object
+   Begin Object Name="MaterialExpressionConstant_15"
+      R=0.800000
+      MaterialExpressionEditorX=-960
+      MaterialExpressionEditorY=60
+      MaterialExpressionGuid=1CB68DAC4BB7E25B123D25920CD4FDCD
+      Material=Material'"M_Rock_Basalt"'
+      Desc="RoughnessMax"
+   End Object
+   Begin Object Name="MaterialExpressionComment_55"
+      SizeX=832
+      SizeY=747
+      Text="Macro Texture Variation"
+      MaterialExpressionEditorX=-3720
+      MaterialExpressionEditorY=-1660
+      MaterialExpressionGuid=FB8F180349288B2468A6ACBF6F1E29BC
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionComment_48"
+      SizeX=472
+      SizeY=440
+      Text="Reduce Macro Contrast"
+      MaterialExpressionEditorX=-1900
+      MaterialExpressionEditorY=-1580
+      MaterialExpressionGuid=7435BE724F951C9EC74CA99D9D9100A4
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionComment_34"
+      SizeX=692
+      SizeY=375
+      Text="Fade to flat normal over distance"
+      MaterialExpressionEditorX=-1300
+      MaterialExpressionEditorY=1040
+      MaterialExpressionGuid=CD665618422111D9DE6F44B719990798
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionComment_24"
+      SizeX=272
+      SizeY=1460
+      Text="Vary Texture Size"
+      MaterialExpressionEditorX=-1660
+      MaterialExpressionEditorY=-500
+      MaterialExpressionGuid=FE9C13284C732356D9F6CDA06A4661A9
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionComment_23"
+      SizeX=520
+      SizeY=740
+      Text="Texture Coordinates"
+      MaterialExpressionEditorX=-3640
+      MaterialExpressionEditorY=-540
+      MaterialExpressionGuid=FEA86DD54612227F1410D3A3965E68B7
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionComment_22"
+      SizeX=700
+      SizeY=380
+      Text="Alpha Of Base Color Defines Roughness"
+      MaterialExpressionEditorX=-1100
+      MaterialExpressionEditorY=-60
+      MaterialExpressionGuid=A90A487D4F0CA584B5044A811F329E02
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionComment_21"
+      SizeX=472
+      SizeY=483
+      Text="Modulate Pixel Depth with Noise"
+      MaterialExpressionEditorX=-3280
+      MaterialExpressionEditorY=1720
+      MaterialExpressionGuid=323CC1634A5CD2F8915697A0F67E13A0
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionComment_20"
+      SizeX=1072
+      SizeY=435
+      Text="Create a Gradient far away from the camera"
+      MaterialExpressionEditorX=-2760
+      MaterialExpressionEditorY=1820
+      MaterialExpressionGuid=E5CFF5EC4C449DDE76B0349FA59F7E84
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionComment_19"
+      SizeX=440
+      SizeY=380
+      Text="Large Scale Tiling"
+      MaterialExpressionEditorX=-3780
+      MaterialExpressionEditorY=1660
+      MaterialExpressionGuid=63513D9E40BE48CD10AA689A01C5D4E0
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionComment_18"
+      SizeX=460
+      SizeY=600
+      Text="NormalTextureSamples"
+      MaterialExpressionEditorX=-2480
+      MaterialExpressionEditorY=600
+      MaterialExpressionGuid=BB82931E4BB4B982B73916A28C6C8C83
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionComment_17"
+      SizeX=400
+      SizeY=740
+      Text="BaseColorTextureSamples"
+      MaterialExpressionEditorX=-2760
+      MaterialExpressionEditorY=-580
+      MaterialExpressionGuid=1776A93E410896FE7E75BBBA30609204
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionClamp_3"
+      Input=(Expression=MaterialExpressionLinearInterpolate'"M_Rock_Basalt:MaterialExpressionLinearInterpolate_45"')
+      MaterialExpressionEditorX=-2000
+      MaterialExpressionEditorY=-80
+      MaterialExpressionGuid=2023089A4356CD1B3CC990A5DFA3E66D
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionClamp_2"
+      Input=(Expression=MaterialExpressionDivide'"M_Rock_Basalt:MaterialExpressionDivide_1"')
+      MaterialExpressionEditorX=-1960
+      MaterialExpressionEditorY=1920
+      MaterialExpressionGuid=EC4086F342EA260602844494D78A94C4
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_23"
+      A=(Expression=MaterialExpressionTextureSample'"M_Rock_Basalt:MaterialExpressionTextureSample_43"',OutputIndex=1,Mask=1,MaskR=1)
+      ConstB=0.500000
+      MaterialExpressionEditorX=-3080
+      MaterialExpressionEditorY=-1160
+      MaterialExpressionGuid=A05B56A1421EE856AD510C9989C3CCE8
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_22"
+      A=(Expression=MaterialExpressionTextureSample'"M_Rock_Basalt:MaterialExpressionTextureSample_42"',OutputIndex=1,Mask=1,MaskR=1)
+      ConstB=0.500000
+      MaterialExpressionEditorX=-3080
+      MaterialExpressionEditorY=-1380
+      MaterialExpressionGuid=C0AE0D3045CF92AB9016A7A381056C77
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_21"
+      A=(Expression=MaterialExpressionTextureSample'"M_Rock_Basalt:MaterialExpressionTextureSample_41"',OutputIndex=1,Mask=1,MaskR=1)
+      ConstB=0.500000
+      MaterialExpressionEditorX=-3080
+      MaterialExpressionEditorY=-1560
+      MaterialExpressionGuid=BBA8FB034AE6B22F280D508D304A2D16
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_1"
+      A=(Expression=MaterialExpressionLinearInterpolate'"M_Rock_Basalt:MaterialExpressionLinearInterpolate_10"')
+      B=(Expression=MaterialExpressionPixelDepth'"M_Rock_Basalt:MaterialExpressionPixelDepth_1"',Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-2460
+      MaterialExpressionEditorY=1920
+      MaterialExpressionGuid=C7E09F9F42983D0D469D19BD4CE22B64
+      Material=Material'"M_Rock_Basalt"'
+   End Object
+   BaseColor=(Expression=MaterialExpressionMultiply'"MaterialExpressionMultiply_5"')
+   Metallic=(OutputIndex=1,Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Specular=(OutputIndex=4,Mask=1,MaskA=1)
+   Roughness=(Expression=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_8"')
+   Normal=(Expression=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_9"')
+   EmissiveColor=(OutputIndex=4,Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Opacity=(OutputIndex=5,Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   OpacityMask=(OutputIndex=6,Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   WorldPositionOffset=(OutputIndex=8,Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   WorldDisplacement=(OutputIndex=9,Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   TessellationMultiplier=(OutputIndex=10,Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   SubsurfaceColor=(OutputIndex=11,Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   AmbientOcclusion=(OutputIndex=12,Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Refraction=(OutputIndex=13,Mask=1,MaskR=1,MaskG=1)
+   bUsedWithStaticLighting=True
+   Expressions(0)=MaterialExpressionMultiply'"MaterialExpressionMultiply_5"'
+   Expressions(1)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_8"'
+   Expressions(2)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_9"'
+   Expressions(3)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_6"'
+   Expressions(4)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_7"'
+   Expressions(5)=MaterialExpressionConstant'"MaterialExpressionConstant_15"'
+   Expressions(6)=MaterialExpressionConstant'"MaterialExpressionConstant_16"'
+   Expressions(7)=MaterialExpressionPixelDepth'"MaterialExpressionPixelDepth_1"'
+   Expressions(8)=MaterialExpressionConstant'"MaterialExpressionConstant_17"'
+   Expressions(9)=MaterialExpressionSubtract'"MaterialExpressionSubtract_1"'
+   Expressions(10)=MaterialExpressionDivide'"MaterialExpressionDivide_1"'
+   Expressions(11)=MaterialExpressionConstant'"MaterialExpressionConstant_18"'
+   Expressions(12)=MaterialExpressionClamp'"MaterialExpressionClamp_2"'
+   Expressions(13)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_8"'
+   Expressions(14)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_10"'
+   Expressions(15)=MaterialExpressionConstant'"MaterialExpressionConstant_19"'
+   Expressions(16)=MaterialExpressionConstant'"MaterialExpressionConstant_20"'
+   Expressions(17)=MaterialExpressionAdd'"MaterialExpressionAdd_1"'
+   Expressions(18)=MaterialExpressionTextureCoordinate'"MaterialExpressionTextureCoordinate_2"'
+   Expressions(19)=MaterialExpressionMultiply'"MaterialExpressionMultiply_6"'
+   Expressions(20)=MaterialExpressionConstant'"MaterialExpressionConstant_21"'
+   Expressions(21)=MaterialExpressionConstant3Vector'"MaterialExpressionConstant3Vector_6"'
+   Expressions(22)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_41"'
+   Expressions(23)=MaterialExpressionTextureCoordinate'"MaterialExpressionTextureCoordinate_28"'
+   Expressions(24)=MaterialExpressionMultiply'"MaterialExpressionMultiply_57"'
+   Expressions(25)=MaterialExpressionAdd'"MaterialExpressionAdd_21"'
+   Expressions(26)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_42"'
+   Expressions(27)=MaterialExpressionTextureCoordinate'"MaterialExpressionTextureCoordinate_29"'
+   Expressions(28)=MaterialExpressionMultiply'"MaterialExpressionMultiply_58"'
+   Expressions(29)=MaterialExpressionAdd'"MaterialExpressionAdd_22"'
+   Expressions(30)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_43"'
+   Expressions(31)=MaterialExpressionTextureCoordinate'"MaterialExpressionTextureCoordinate_30"'
+   Expressions(32)=MaterialExpressionMultiply'"MaterialExpressionMultiply_59"'
+   Expressions(33)=MaterialExpressionAdd'"MaterialExpressionAdd_23"'
+   Expressions(34)=MaterialExpressionMultiply'"MaterialExpressionMultiply_60"'
+   Expressions(35)=MaterialExpressionMultiply'"MaterialExpressionMultiply_61"'
+   Expressions(36)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_43"'
+   Expressions(37)=MaterialExpressionConstant3Vector'"MaterialExpressionConstant3Vector_15"'
+   Expressions(38)=MaterialExpressionTextureCoordinate'"MaterialExpressionTextureCoordinate_3"'
+   Expressions(39)=MaterialExpressionMultiply'"MaterialExpressionMultiply_7"'
+   Expressions(40)=MaterialExpressionConstant'"MaterialExpressionConstant_22"'
+   Expressions(41)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_11"'
+   Expressions(42)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_9"'
+   Expressions(43)=MaterialExpressionConstant'"MaterialExpressionConstant_23"'
+   Expressions(44)=MaterialExpressionMultiply'"MaterialExpressionMultiply_8"'
+   Expressions(45)=MaterialExpressionClamp'"MaterialExpressionClamp_3"'
+   Expressions(46)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_45"'
+   Expressions(47)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_12"'
+   Expressions(48)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_10"'
+   Expressions(49)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_13"'
+   Expressions(50)=MaterialExpressionMultiply'"MaterialExpressionMultiply_9"'
+   EditorComments(0)=MaterialExpressionComment'"MaterialExpressionComment_24"'
+   EditorComments(1)=MaterialExpressionComment'"MaterialExpressionComment_23"'
+   EditorComments(2)=MaterialExpressionComment'"MaterialExpressionComment_55"'
+   EditorComments(3)=MaterialExpressionComment'"MaterialExpressionComment_22"'
+   EditorComments(4)=MaterialExpressionComment'"MaterialExpressionComment_21"'
+   EditorComments(5)=MaterialExpressionComment'"MaterialExpressionComment_20"'
+   EditorComments(6)=MaterialExpressionComment'"MaterialExpressionComment_19"'
+   EditorComments(7)=MaterialExpressionComment'"MaterialExpressionComment_18"'
+   EditorComments(8)=MaterialExpressionComment'"MaterialExpressionComment_17"'
+   EditorComments(9)=MaterialExpressionComment'"MaterialExpressionComment_48"'
+   EditorComments(10)=MaterialExpressionComment'"MaterialExpressionComment_34"'
+   StateId=F3BFCFDB4DB64910F884B59B80D0D0BB
+   ReferencedTextureGuids(0)=F95693BC4C787B494F9546A64908FA32
+   ReferencedTextureGuids(1)=0C068365468906DC61E61398C2297CBA
+   ReferencedTextureGuids(2)=B1B48DC346A48B839A728CBBA9158683
+   ReferencedTextureGuids(3)=8691B38643B74B00A88321A1B2D84D21
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=1D0225D34A0BF2738E6A90AAE6E16139
+End Object

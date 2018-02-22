@@ -1,0 +1,551 @@
+Begin Object Class=/Script/Engine.Material Name="M_Concrete_Tiles"
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_23"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_25"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionClamp Name="MaterialExpressionClamp_8"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_14"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_7"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_12"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_15"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_16"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_17"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_20"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_23"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionDivide Name="MaterialExpressionDivide_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_38"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_39"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_42"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_44"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_25"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_29"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_31"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_7"
+   End Object
+   Begin Object Name="MaterialExpressionAdd_23"
+      A=(Expression=MaterialExpressionTextureSample'"M_Concrete_Tiles:MaterialExpressionTextureSample_29"',OutputIndex=1,Mask=1,MaskR=1)
+      ConstB=0.500000
+      MaterialExpressionEditorX=-1760
+      MaterialExpressionEditorY=-80
+      MaterialExpressionGuid=0161290D4EC4BFD1EE40689D69BED9D9
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_25"
+      A=(Expression=MaterialExpressionTextureSample'"M_Concrete_Tiles:MaterialExpressionTextureSample_2"',OutputIndex=1,Mask=1,MaskR=1)
+      B=(Expression=MaterialExpressionMultiply'"M_Concrete_Tiles:MaterialExpressionMultiply_44"')
+      MaterialExpressionEditorX=-628
+      MaterialExpressionEditorY=1055
+      MaterialExpressionGuid=5720A2C04ADFEC69AFC815A78B9C9589
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_3"
+      A=(Expression=MaterialExpressionTextureSample'"M_Concrete_Tiles:MaterialExpressionTextureSample_3"',OutputIndex=1,Mask=1,MaskR=1)
+      ConstB=0.500000
+      MaterialExpressionEditorX=-1700
+      MaterialExpressionEditorY=-320
+      MaterialExpressionGuid=2F11049847A34B70B1A82082CF87E10D
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_4"
+      A=(Expression=MaterialExpressionTextureSample'"M_Concrete_Tiles:MaterialExpressionTextureSample_5"',OutputIndex=1,Mask=1,MaskR=1)
+      ConstB=0.500000
+      MaterialExpressionEditorX=-1740
+      MaterialExpressionEditorY=-500
+      MaterialExpressionGuid=41101C5045CDA305FA04F3BFD320B875
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="MaterialExpressionClamp_8"
+      Input=(Expression=MaterialExpressionMultiply'"M_Concrete_Tiles:MaterialExpressionMultiply_4"')
+      MaterialExpressionEditorX=1240
+      MaterialExpressionEditorY=340
+      MaterialExpressionGuid=A57995B3411A591B8D074CB093BBD75B
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="MaterialExpressionComment_0"
+      SizeX=957
+      SizeY=555
+      Text="Detail normal"
+      MaterialExpressionEditorX=42
+      MaterialExpressionEditorY=1922
+      MaterialExpressionGuid=0B243C9944E59886C03A2A9443EC7140
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="MaterialExpressionComment_1"
+      SizeX=440
+      SizeY=320
+      Text="Normal map texture sample"
+      MaterialExpressionEditorX=300
+      MaterialExpressionEditorY=1480
+      MaterialExpressionGuid=C5CB543647C084AD83FBB99EB1E97C26
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="MaterialExpressionComment_14"
+      SizeX=1080
+      SizeY=760
+      Text="Macro Texture Variation"
+      MaterialExpressionEditorX=-2400
+      MaterialExpressionEditorY=-600
+      MaterialExpressionGuid=5065DB4946E3A9BBAEE1B4BED2C062A4
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="MaterialExpressionComment_2"
+      SizeX=760
+      SizeY=400
+      Text="Create roughness from Variation and Texture Mask"
+      MaterialExpressionEditorX=-1000
+      MaterialExpressionEditorY=820
+      MaterialExpressionGuid=52D0A98A45BE1E4069B308A9EC35B1C5
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="MaterialExpressionComment_4"
+      SizeX=440
+      SizeY=440
+      Text="Reduce Macro Contrast"
+      MaterialExpressionEditorX=-1140
+      MaterialExpressionEditorY=-420
+      MaterialExpressionGuid=C2D603564E34A414D793CE825BFC087C
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="MaterialExpressionComment_5"
+      SizeX=440
+      SizeY=440
+      Text="Reduce Macro Contrast"
+      MaterialExpressionEditorX=280
+      MaterialExpressionEditorY=-560
+      MaterialExpressionGuid=906491D44FC55B6A306113AEF5A61BC3
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="MaterialExpressionComment_6"
+      SizeX=680
+      SizeY=320
+      Text="Tile variation mask"
+      MaterialExpressionEditorX=-480
+      MaterialExpressionEditorY=-580
+      MaterialExpressionGuid=C298D0FF4D9C0600043F4AA6FF1B1345
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="MaterialExpressionComment_7"
+      SizeX=400
+      SizeY=320
+      Text="Base Color texture sample"
+      MaterialExpressionEditorX=-20
+      MaterialExpressionEditorY=340
+      MaterialExpressionGuid=2D09982C4A64C1FD8E4F7B874601DCC6
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_1"
+      R=1024.000000
+      MaterialExpressionEditorX=-2047
+      MaterialExpressionEditorY=-913
+      MaterialExpressionGuid=180776954658E9DAB7771AA3ED608B01
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_12"
+      R=0.200000
+      MaterialExpressionEditorX=-928
+      MaterialExpressionEditorY=955
+      MaterialExpressionGuid=8F11CFAD4BBD498454CD2DA8D8B5F4EA
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_15"
+      R=0.600000
+      MaterialExpressionEditorX=-1060
+      MaterialExpressionEditorY=-340
+      MaterialExpressionGuid=9EAA50D14C1EAF39684607B4947BC51F
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_16"
+      R=1.000000
+      MaterialExpressionEditorX=-1060
+      MaterialExpressionEditorY=-240
+      MaterialExpressionGuid=0385A19249E5C7A313889BA3ABF81417
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_17"
+      R=0.150000
+      MaterialExpressionEditorX=360
+      MaterialExpressionEditorY=-480
+      MaterialExpressionGuid=0DB93A574B2CD906D66544A8F822E8B9
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_20"
+      R=0.700000
+      MaterialExpressionEditorX=360
+      MaterialExpressionEditorY=-380
+      MaterialExpressionGuid=91C270B3449855D8592DDEA69CD22F25
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_23"
+      R=4.000000
+      MaterialExpressionEditorX=-260
+      MaterialExpressionEditorY=-400
+      MaterialExpressionGuid=EC3F5D9F40B6E8FDE39144BC32A0AD82
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="MaterialExpressionDivide_0"
+      A=(Expression=MaterialExpressionTextureCoordinate'"M_Concrete_Tiles:MaterialExpressionTextureCoordinate_0"')
+      B=(Expression=MaterialExpressionConstant'"M_Concrete_Tiles:MaterialExpressionConstant_23"')
+      MaterialExpressionEditorX=-160
+      MaterialExpressionEditorY=-520
+      MaterialExpressionGuid=1FD66BB746B7FE0E9D845F98B1BC0DD3
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_0"
+      Alpha=(Expression=MaterialExpressionAdd'"M_Concrete_Tiles:MaterialExpressionAdd_25"')
+      ConstA=-0.300000
+      MaterialExpressionEditorX=-448
+      MaterialExpressionEditorY=1015
+      MaterialExpressionGuid=7942583D47ED5A89A5F4EFB4BE2F89A3
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_1"
+      A=(Expression=MaterialExpressionAdd'"M_Concrete_Tiles:MaterialExpressionAdd_4"')
+      B=(Expression=MaterialExpressionAdd'"M_Concrete_Tiles:MaterialExpressionAdd_3"')
+      Alpha=(Expression=MaterialExpressionMaterialFunctionCall'"M_Concrete_Tiles:MaterialExpressionMaterialFunctionCall_2"')
+      MaterialExpressionEditorX=-1391
+      MaterialExpressionEditorY=-385
+      MaterialExpressionGuid=1EF943904AEA5AF2AEC0FA8FA10E447E
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_5"
+      A=(Expression=MaterialExpressionConstant'"M_Concrete_Tiles:MaterialExpressionConstant_15"')
+      B=(Expression=MaterialExpressionConstant'"M_Concrete_Tiles:MaterialExpressionConstant_16"')
+      Alpha=(Expression=MaterialExpressionMultiply'"M_Concrete_Tiles:MaterialExpressionMultiply_39"')
+      MaterialExpressionEditorX=-880
+      MaterialExpressionEditorY=-180
+      MaterialExpressionGuid=7E46FA714B9F5B1ACC7EEB82C605B94D
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_6"
+      A=(Expression=MaterialExpressionConstant'"M_Concrete_Tiles:MaterialExpressionConstant_17"')
+      B=(Expression=MaterialExpressionConstant'"M_Concrete_Tiles:MaterialExpressionConstant_20"')
+      Alpha=(Expression=MaterialExpressionTextureSample'"M_Concrete_Tiles:MaterialExpressionTextureSample_0"',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=540
+      MaterialExpressionEditorY=-320
+      MaterialExpressionGuid=8C09292149F00DEC89D56C8F8C1C970F
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_2"
+      MaterialFunction=MaterialFunction'"/Engine/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.CameraDepthFade"'
+      FunctionInputs(0)=(ExpressionInputId=79FFEA6C4F3A46F51F8E50A349E4BB4B,Input=(Expression=MaterialExpressionConstant'"M_Concrete_Tiles:MaterialExpressionConstant_1"',InputName="Fade Length"))
+      FunctionInputs(1)=(ExpressionInputId=D5EC0E2F4DB888679BFC2A8B921262ED,Input=(OutputIndex=-1,InputName="Fade Offset"))
+      FunctionInputs(2)=(ExpressionInputId=7B4195E6455691CA3782398687468578,Input=(OutputIndex=-1,InputName="For Vertex Shader"))
+      FunctionOutputs(0)=(ExpressionOutputId=160C00424E845E293F44DCBE13738CEE,Output=(OutputName="Result"))
+      MaterialExpressionEditorX=-1740
+      MaterialExpressionEditorY=-880
+      MaterialExpressionGuid=5396FEC9462FD8D215BDAA823F4CAE40
+      Material=Material'"M_Concrete_Tiles"'
+      Desc="Never have near and mid macro together"
+      Outputs(0)=(OutputName="Result")
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_1"
+      A=(Expression=MaterialExpressionLinearInterpolate'"M_Concrete_Tiles:MaterialExpressionLinearInterpolate_6"')
+      B=(Expression=MaterialExpressionMultiply'"M_Concrete_Tiles:MaterialExpressionMultiply_42"')
+      MaterialExpressionEditorX=840
+      MaterialExpressionEditorY=-20
+      MaterialExpressionGuid=42CCF2244350C21525D82A81139EB617
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_38"
+      A=(Expression=MaterialExpressionTextureCoordinate'"M_Concrete_Tiles:MaterialExpressionTextureCoordinate_25"')
+      ConstB=0.002000
+      MaterialExpressionEditorX=-2140
+      MaterialExpressionEditorY=-100
+      MaterialExpressionGuid=030D2AF141D84EA3DE83BB8B3658A556
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_39"
+      A=(Expression=MaterialExpressionLinearInterpolate'"M_Concrete_Tiles:MaterialExpressionLinearInterpolate_1"')
+      B=(Expression=MaterialExpressionAdd'"M_Concrete_Tiles:MaterialExpressionAdd_23"')
+      MaterialExpressionEditorX=-1500
+      MaterialExpressionEditorY=-180
+      MaterialExpressionGuid=98F100D943D05D14EA76D2A4E53A8C4F
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_4"
+      A=(Expression=MaterialExpressionMultiply'"M_Concrete_Tiles:MaterialExpressionMultiply_1"')
+      B=(Expression=MaterialExpressionVectorParameter'"M_Concrete_Tiles:MaterialExpressionVectorParameter_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      MaterialExpressionEditorX=1040
+      MaterialExpressionEditorY=320
+      MaterialExpressionGuid=CD74AF3C4BEF4D6192A17CB5489F0D14
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_42"
+      A=(Expression=MaterialExpressionLinearInterpolate'"M_Concrete_Tiles:MaterialExpressionLinearInterpolate_5"')
+      B=(Expression=MaterialExpressionTextureSample'"M_Concrete_Tiles:MaterialExpressionTextureSample_4"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      MaterialExpressionEditorX=440
+      MaterialExpressionEditorY=120
+      MaterialExpressionGuid=86D91F0B47FAFF61165F7AA56D63115A
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_44"
+      A=(Expression=MaterialExpressionMultiply'"M_Concrete_Tiles:MaterialExpressionMultiply_39"')
+      B=(Expression=MaterialExpressionConstant'"M_Concrete_Tiles:MaterialExpressionConstant_12"')
+      MaterialExpressionEditorX=-828
+      MaterialExpressionEditorY=875
+      MaterialExpressionGuid=3329E6A34A781BF17557E69085FF25C4
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_5"
+      A=(Expression=MaterialExpressionTextureCoordinate'"M_Concrete_Tiles:MaterialExpressionTextureCoordinate_3"')
+      ConstB=0.053410
+      MaterialExpressionEditorX=-2160
+      MaterialExpressionEditorY=-320
+      MaterialExpressionGuid=7A9FB1EF4F75D961037720BECA0BF8F8
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_6"
+      A=(Expression=MaterialExpressionTextureCoordinate'"M_Concrete_Tiles:MaterialExpressionTextureCoordinate_4"')
+      ConstB=0.213500
+      MaterialExpressionEditorX=-2140
+      MaterialExpressionEditorY=-520
+      MaterialExpressionGuid=1C552C7D42ACD62D558D4B886CFFE619
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_0"
+      UTiling=0.500000
+      VTiling=0.500000
+      MaterialExpressionEditorX=-460
+      MaterialExpressionEditorY=-520
+      MaterialExpressionGuid=CC673DC440D02FEFC99C19BAC08C1666
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_1"
+      UTiling=0.500000
+      VTiling=0.500000
+      MaterialExpressionEditorX=-1280
+      MaterialExpressionEditorY=1660
+      MaterialExpressionGuid=F7097EA64284E74D9391C7B19317B1D0
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_25"
+      MaterialExpressionEditorX=-2320
+      MaterialExpressionEditorY=-80
+      MaterialExpressionGuid=E7F81EF74ABDDE204F5DE98923DBDB1D
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_3"
+      UTiling=2.000000
+      VTiling=2.000000
+      MaterialExpressionEditorX=-2300
+      MaterialExpressionEditorY=-320
+      MaterialExpressionGuid=3A3583874E209C8D2C1E9C9E5E439A22
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_4"
+      UTiling=2.000000
+      VTiling=2.000000
+      MaterialExpressionEditorX=-2280
+      MaterialExpressionEditorY=-520
+      MaterialExpressionGuid=FD34471B49C2DD71F43F27BECC8B37C2
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_0"
+      Coordinates=(Expression=MaterialExpressionDivide'"M_Concrete_Tiles:MaterialExpressionDivide_0"')
+      Texture=Texture2D'"/Game/Textures/T_Concrete_Tiles_Variation_M.T_Concrete_Tiles_Variation_M"'
+      MaterialExpressionEditorY=-520
+      MaterialExpressionGuid=8113DA5A4A417051366022B738F133CE
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_2"
+      Coordinates=(Expression=MaterialExpressionTextureCoordinate'"M_Concrete_Tiles:MaterialExpressionTextureCoordinate_1"')
+      Texture=Texture2D'"/Game/Textures/T_Concrete_Tiles_M.T_Concrete_Tiles_M"'
+      MaterialExpressionEditorX=-880
+      MaterialExpressionEditorY=1340
+      MaterialExpressionGuid=523BA761415E86B2A5FB6AA2C6F16225
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_29"
+      Coordinates=(Expression=MaterialExpressionMultiply'"M_Concrete_Tiles:MaterialExpressionMultiply_38"')
+      Texture=Texture2D'"/Game/Textures/T_MacroVariation.T_MacroVariation"'
+      MaterialExpressionEditorX=-1960
+      MaterialExpressionEditorY=-100
+      MaterialExpressionGuid=4509596E4A75906FD133A28A5166B08E
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_3"
+      Coordinates=(Expression=MaterialExpressionMultiply'"M_Concrete_Tiles:MaterialExpressionMultiply_5"')
+      Texture=Texture2D'"/Game/Textures/T_MacroVariation.T_MacroVariation"'
+      MaterialExpressionEditorX=-1960
+      MaterialExpressionEditorY=-320
+      MaterialExpressionGuid=92F31D554660F9AC8CA32EB8FDAD6E55
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_31"
+      Coordinates=(Expression=MaterialExpressionTextureCoordinate'"M_Concrete_Tiles:MaterialExpressionTextureCoordinate_1"')
+      Texture=Texture2D'"/Game/Textures/T_Concrete_Tiles_N.T_Concrete_Tiles_N"'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=362
+      MaterialExpressionEditorY=1562
+      MaterialExpressionGuid=CA155E624C12829AB56C3E93FEA6100D
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_4"
+      Coordinates=(Expression=MaterialExpressionTextureCoordinate'"M_Concrete_Tiles:MaterialExpressionTextureCoordinate_1"')
+      Texture=Texture2D'"/Game/Textures/T_Concrete_Tiles_D.T_Concrete_Tiles_D"'
+      MaterialExpressionEditorX=42
+      MaterialExpressionEditorY=402
+      MaterialExpressionGuid=D8AE48E54C3272C9B36076BDF4F86D8F
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_5"
+      Coordinates=(Expression=MaterialExpressionMultiply'"M_Concrete_Tiles:MaterialExpressionMultiply_6"')
+      Texture=Texture2D'"/Game/Textures/T_MacroVariation.T_MacroVariation"'
+      MaterialExpressionEditorX=-1940
+      MaterialExpressionEditorY=-520
+      MaterialExpressionGuid=B9A559B341727799EE3D46B279ED498B
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_0"
+      DefaultValue=(R=2.000000,G=1.947425,B=1.843795,A=1.000000)
+      ParameterName="Base Color tint"
+      ExpressionGUID=8CD8B0804F4451C1C473998ADA469D7F
+      MaterialExpressionEditorX=760
+      MaterialExpressionEditorY=480
+      MaterialExpressionGuid=2E60AA994840405F205F50AB9C60E5F3
+      Material=Material'"M_Concrete_Tiles"'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_7"
+   End Object
+   BaseColor=(Expression=MaterialExpressionClamp'"MaterialExpressionClamp_8"')
+   Roughness=(Expression=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_0"')
+   Normal=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_31"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   AmbientOcclusion=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_2"',OutputIndex=2,Mask=1,MaskG=1)
+   bUsedWithStaticLighting=True
+   EditorX=1264
+   EditorY=528
+   Expressions(0)=MaterialExpressionClamp'"MaterialExpressionClamp_8"'
+   Expressions(1)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_0"'
+   Expressions(2)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_2"'
+   Expressions(3)=MaterialExpressionMultiply'"MaterialExpressionMultiply_1"'
+   Expressions(4)=MaterialExpressionMultiply'"MaterialExpressionMultiply_42"'
+   Expressions(5)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_31"'
+   Expressions(6)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_4"'
+   Expressions(7)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_3"'
+   Expressions(8)=MaterialExpressionTextureCoordinate'"MaterialExpressionTextureCoordinate_3"'
+   Expressions(9)=MaterialExpressionMultiply'"MaterialExpressionMultiply_5"'
+   Expressions(10)=MaterialExpressionAdd'"MaterialExpressionAdd_3"'
+   Expressions(11)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_29"'
+   Expressions(12)=MaterialExpressionTextureCoordinate'"MaterialExpressionTextureCoordinate_25"'
+   Expressions(13)=MaterialExpressionMultiply'"MaterialExpressionMultiply_38"'
+   Expressions(14)=MaterialExpressionAdd'"MaterialExpressionAdd_23"'
+   Expressions(15)=MaterialExpressionMultiply'"MaterialExpressionMultiply_39"'
+   Expressions(16)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_5"'
+   Expressions(17)=MaterialExpressionMultiply'"MaterialExpressionMultiply_44"'
+   Expressions(18)=MaterialExpressionAdd'"MaterialExpressionAdd_25"'
+   Expressions(19)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"'
+   Expressions(20)=MaterialExpressionTextureCoordinate'"MaterialExpressionTextureCoordinate_0"'
+   Expressions(21)=MaterialExpressionDivide'"MaterialExpressionDivide_0"'
+   Expressions(22)=MaterialExpressionConstant'"MaterialExpressionConstant_15"'
+   Expressions(23)=MaterialExpressionConstant'"MaterialExpressionConstant_16"'
+   Expressions(24)=MaterialExpressionConstant'"MaterialExpressionConstant_12"'
+   Expressions(25)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_6"'
+   Expressions(26)=MaterialExpressionConstant'"MaterialExpressionConstant_17"'
+   Expressions(27)=MaterialExpressionConstant'"MaterialExpressionConstant_20"'
+   Expressions(28)=MaterialExpressionConstant'"MaterialExpressionConstant_23"'
+   Expressions(29)=MaterialExpressionMultiply'"MaterialExpressionMultiply_4"'
+   Expressions(30)=MaterialExpressionVectorParameter'"MaterialExpressionVectorParameter_0"'
+   Expressions(31)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_5"'
+   Expressions(32)=MaterialExpressionTextureCoordinate'"MaterialExpressionTextureCoordinate_4"'
+   Expressions(33)=MaterialExpressionMultiply'"MaterialExpressionMultiply_6"'
+   Expressions(34)=MaterialExpressionAdd'"MaterialExpressionAdd_4"'
+   Expressions(35)=MaterialExpressionMaterialFunctionCall'"MaterialExpressionMaterialFunctionCall_2"'
+   Expressions(36)=MaterialExpressionConstant'"MaterialExpressionConstant_1"'
+   Expressions(37)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_1"'
+   Expressions(38)=MaterialExpressionTextureCoordinate'"MaterialExpressionTextureCoordinate_1"'
+   EditorComments(0)=MaterialExpressionComment'"MaterialExpressionComment_14"'
+   EditorComments(1)=MaterialExpressionComment'"MaterialExpressionComment_4"'
+   EditorComments(2)=MaterialExpressionComment'"MaterialExpressionComment_0"'
+   EditorComments(3)=MaterialExpressionComment'"MaterialExpressionComment_1"'
+   EditorComments(4)=MaterialExpressionComment'"MaterialExpressionComment_2"'
+   EditorComments(5)=MaterialExpressionComment'"MaterialExpressionComment_5"'
+   EditorComments(6)=MaterialExpressionComment'"MaterialExpressionComment_6"'
+   EditorComments(7)=MaterialExpressionComment'"MaterialExpressionComment_7"'
+   MaterialFunctionInfos(0)=(StateId=DD44CC9D4987047FE7B9B381E4FC7145,Function=MaterialFunction'"/Engine/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.CameraDepthFade"')
+   StateId=240815CF4979FC776467C9AC1637D0B2
+   ReferencedTextureGuids(0)=738C25884182529B34254B90C97EDC42
+   ReferencedTextureGuids(1)=81A98482462572F7BBEB38B1AF68E62A
+   ReferencedTextureGuids(2)=0C068365468906DC61E61398C2297CBA
+   ReferencedTextureGuids(3)=63630205489453D1DD626B866A967EB0
+   ReferencedTextureGuids(4)=F15E56A14E40FD04F3E0CEB0DC6348AB
+   TextureStreamingDataVersion=1
+   TextureStreamingData(0)=(SamplingScale=0.500000,UVChannelIndex=0,TextureName="T_Concrete_Tiles_D",TextureReference=/Game/Textures/T_Concrete_Tiles_D.T_Concrete_Tiles_D)
+   TextureStreamingData(1)=(SamplingScale=0.500000,UVChannelIndex=0,TextureName="T_Concrete_Tiles_M",TextureReference=/Game/Textures/T_Concrete_Tiles_M.T_Concrete_Tiles_M)
+   TextureStreamingData(2)=(SamplingScale=0.500000,UVChannelIndex=0,TextureName="T_Concrete_Tiles_N",TextureReference=/Game/Textures/T_Concrete_Tiles_N.T_Concrete_Tiles_N)
+   TextureStreamingData(3)=(SamplingScale=0.125000,UVChannelIndex=0,TextureName="T_Concrete_Tiles_Variation_M",TextureReference=/Game/Textures/T_Concrete_Tiles_Variation_M.T_Concrete_Tiles_Variation_M)
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_7"'
+   LightingGuid=8D3C1CE94E45E6F5A092C3BAAD13DC58
+End Object
